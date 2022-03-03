@@ -15,7 +15,7 @@ export default class header extends Component {
               <li><a className="smoothscroll" href="#about">About</a></li>
               <li><a className="smoothscroll" href="#resume">Resume</a></li>
               <li><a className="smoothscroll" href="#portfolio">Works</a></li>
-              <li><a className="smoothscroll" href="#contact">Say Hello</a></li>
+              <li><a className="smoothscroll" href="#contact">J Rayan</a></li>
             </ul>
           </nav>
         </div> {/* end row */}
