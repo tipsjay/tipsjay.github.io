@@ -23,7 +23,7 @@ export default class about extends Component {
                       J. Rayan Iglisia <br />
                       Nasipit Road, Talamban <br />
                       Cebu City, PH <br />
-                      <a href="tel:+1975432345">+63 997 3358 924</a> <br />
+                      <a href="tel:+1975432345">+63 973 358 924</a> <br />
                       <a href="mailto:#0">j.rayaninociglisia@gmail.com</a>
                     </p>
                   </div>

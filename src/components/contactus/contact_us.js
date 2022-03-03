@@ -26,7 +26,7 @@ export default class contact_us extends Component {
                           Email
                         </h5>
                         <p className="contact-block__content">
-                          <a className="mailtoui" href="mailto:sayhello@ceevee.com">sayhello@ceevee.com</a>
+                          <a className="mailtoui" href="mailto:sayhello@ceevee.com">j.rayaninociglisia@gmail.com</a>
                         </p>
                       </div> {/* end contact-block */}
                     </div>
@@ -36,12 +36,12 @@ export default class contact_us extends Component {
                           Phone
                         </h5>
                         <p className="contact-block__content">
-                          <a href="tel:+1975432345">+197 543 2345</a>
+                          <a href="tel:+1975432345">+63 973 358 924</a>
                         </p>
                       </div> {/* end contact-block */}
                     </div>
                     <div className="column large-12">
-                      <a href="mailto:sayhello@ceevee.com" className="mailtoui btn btn--primary h-full-width">Let's Talk</a>
+                      <a href="mailto:j.rayaninociglisia@gmail.com" className="mailtoui btn btn--primary h-full-width">Let's Talk</a>
                     </div>
                   </div> {/* end contact-infos */}
                 </div>
