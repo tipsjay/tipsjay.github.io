@@ -36,7 +36,7 @@ export default class header extends Component {
                   <h1>I'm J. Rayan Iglisia</h1>
 
                   <h3>
-                  I'm living in the realm of coding. <span>and loves you</span>. Let's <a class="smoothscroll" href="#about">start scrolling</a> and learn more
+                  I'm living in the realm of coding, <span>and enjoys developing web applications.</span>. Let's <a class="smoothscroll" href="#about">start scrolling</a> and learn more
                    <a class="smoothscroll" href="#about"> about me</a>.
                   </h3>
 
