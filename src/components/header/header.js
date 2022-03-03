@@ -33,12 +33,11 @@ export default class header extends Component {
 
               <div class="s-hero__content-about">
 
-                  <h1>I'm Jonathan Doe.</h1>
+                  <h1>I'm J. Rayan Iglisia</h1>
 
                   <h3>
-                  I'm a Manila based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and
-                  effective visual identities for companies of all sizes around the globe. Let's <a class="smoothscroll" href="#about">start scrolling</a>
-                  and learn more <a class="smoothscroll" href="#about">about me</a>.
+                  I'm living in the realm of coding. <span>and loves you</span>. Let's <a class="smoothscroll" href="#about">start scrolling</a> and learn more
+                   <a class="smoothscroll" href="#about"> about me</a>.
                   </h3>
 
                   <div class="s-hero__content-social">
